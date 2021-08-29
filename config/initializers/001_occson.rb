@@ -1,0 +1,1 @@
+CcsConfigLoader.new('ccs://0.1.0/.env').call
