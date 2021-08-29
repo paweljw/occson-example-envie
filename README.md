@@ -1,24 +1,8 @@
-# README
+# envie
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an example application showcasing the use of [occson.com](https://occson.com) - a configuration control system.
 
-Things you may want to cover:
+See more on [our blog](https://occson.com/blog/index.html):
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* [Occson and Ruby on Rails](https://occson.com/blog/occson/rails/environment/devops/ruby/2021/07/10/occson.html)
+* [Automatic configuration reloads with Occson Webhooks](https://occson.com/blog/2021/08/29/webhooks.html)
